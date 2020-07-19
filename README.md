@@ -4,8 +4,8 @@ Interactive Python notebook to learn the fundamentals of Python
 This is a very explicit interactive notebook. In this notebook, you will learn the fundamentals of Python through hands on experience with the interactive notebook. 
 
 In this notebook, you will learn:
-*Variables
-*Data types
+-Variables
+-Data types
 *Data structure
 *Conditionals
 *Loops
