@@ -31,6 +31,8 @@ Have Python 3.7 or newer version installed. You can check the version by typing 
 
 Have Jupyter Notebook installed.
 
+Alternatively, you can run this notebook on google colab
+
 **Instruction to use**
 
 Clone or download this repository.
