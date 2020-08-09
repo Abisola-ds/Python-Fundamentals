@@ -25,7 +25,7 @@ File handling
 
 **There will also be lot of exercises and a final quiz to test your knowledge of the various concepts**
 
-**Requirements**
+##Requirements
 
 Have Python 3.7 or newer version installed. You can check the version by typing python3 --version in your command line. 
 
@@ -33,7 +33,7 @@ Have Jupyter Notebook installed.
 
 Alternatively, you can run this notebook on google colab
 
-**Instruction to use**
+##Instruction to use
 
 Clone or download this repository.
 
