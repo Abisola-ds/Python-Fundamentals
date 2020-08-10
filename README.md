@@ -37,10 +37,6 @@ Alternatively, you can run this notebook on google colab
 
 Clone or download this repository.
 
-Run jupyter notebook command in your command line in the repository directory.
-
-Jupyter Notebook session will open in the browser and you can start navigating through the cells
-
 Alternatively, you can download as a zip file and unzip the file. You can then open up your jupyter notebook and navigate to the directory where your unzipped file is. Open it and start navigating through the cells.
 
 **Time Required: 6 Hours**
