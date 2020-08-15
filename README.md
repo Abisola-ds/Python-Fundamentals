@@ -39,4 +39,6 @@ Clone or download this repository.
 
 Alternatively, you can download as a zip file and unzip the file. You can then open up your jupyter notebook and navigate to the directory where your unzipped file is. Open it and start navigating through the cells.
 
+**Watch the getting started video as a guide to access the notebook**
+
 **Time Required: 6 Hours**
