@@ -1,4 +1,8 @@
 # Python-Fundamentals
+
+**Watch the getting started video as a guide to access the notebook**
+
+
 Interactive Python notebook to learn the fundamentals of Python
 
 This is a very explicit interactive notebook. In this notebook, you will learn the fundamentals of Python through hands on experience with the interactive notebook. 
